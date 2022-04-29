@@ -1,0 +1,2 @@
+# appAstrologia-ReactNative
+appAstrologia-ReactNative
